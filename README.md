@@ -1,1 +1,1 @@
-<img src="img/login.png" alt="background" class="gambar">
+<img src="img/login.PNG" alt="background" class="gambar">
